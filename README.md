@@ -9,7 +9,7 @@
 
   <!-- BANNER -->
   <div>
-      <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/preview.gif">
+      <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav.github.io/main/assets/img/preview.gif">
   </div>
   
   <!-- ABOUT ME -->
