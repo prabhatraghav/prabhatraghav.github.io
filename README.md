@@ -5,7 +5,7 @@
    <h2 align="left" class="section-heading"> My Portfolio </h2>
   </div>-->
   
-[![pages-build-deployment](https://github.com/prabhatraghav/prabhatraghav.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/prabhatraghav/prabhatraghav.github.io/actions/workflows/pages/pages-build-deployment)
+[![Deployment](https://github.com/prabhatraghav/prabhatraghav.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/prabhatraghav/prabhatraghav.github.io/actions/workflows/pages/pages-build-deployment)
 
   <!-- BANNER -->
   <div>
