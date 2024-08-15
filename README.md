@@ -6,6 +6,8 @@
   </div>-->
   
 [![pages-build-deployment](https://github.com/prabhatraghav/prabhatraghav.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/prabhatraghav/prabhatraghav.github.io/actions/workflows/pages/pages-build-deployment)
+https://img.shields.io/website?url=https%3A%2F%2Fprabhatraghav.online&label=prabhatraghav.online&link=https%3A%2F%2Fprabhatraghav.online
+
 
   <!-- BANNER -->
   <div>
